@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "SiE+8JnXRc7hZapwRKIqRHafzyULQm2vf9JiCxtiNt0CB7OyUfcAMBfZXgm0Ei4KWCVwJ3Tvuah2jVsMt+fcCg==",
+  "dgSpecHash": "gIeBdLzoPIJcFm8QdV+jUw2RJIN1Pb7OcHJwnZN1zS7Fzga2f21vWHrmRaDoH5SFZtv65iuDy3Wf+c0NSDCPOA==",
   "success": true,
-  "projectFilePath": "D:\\TU Delft\\3de jaar TUD\\B - Blok 2\\D - C#\\C#\\C-sharp\\Tutorial\\Tutorial\\Tutorial.csproj",
+  "projectFilePath": "C:\\Users\\WalterKahn\\Documents\\F - Overig\\C-sharp\\Tutorial\\Tutorial\\Tutorial.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.internal.geodelta.com/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }

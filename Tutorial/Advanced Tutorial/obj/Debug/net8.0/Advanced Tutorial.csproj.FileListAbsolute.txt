@@ -1,0 +1,15 @@
+C:\Users\WalterKahn\Documents\F - Overig\C-sharp\Tutorial\Advanced Tutorial\bin\Debug\net8.0\Advanced Tutorial.exe
+C:\Users\WalterKahn\Documents\F - Overig\C-sharp\Tutorial\Advanced Tutorial\bin\Debug\net8.0\Advanced Tutorial.deps.json
+C:\Users\WalterKahn\Documents\F - Overig\C-sharp\Tutorial\Advanced Tutorial\bin\Debug\net8.0\Advanced Tutorial.runtimeconfig.json
+C:\Users\WalterKahn\Documents\F - Overig\C-sharp\Tutorial\Advanced Tutorial\bin\Debug\net8.0\Advanced Tutorial.dll
+C:\Users\WalterKahn\Documents\F - Overig\C-sharp\Tutorial\Advanced Tutorial\bin\Debug\net8.0\Advanced Tutorial.pdb
+C:\Users\WalterKahn\Documents\F - Overig\C-sharp\Tutorial\Advanced Tutorial\obj\Debug\net8.0\Advanced Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WalterKahn\Documents\F - Overig\C-sharp\Tutorial\Advanced Tutorial\obj\Debug\net8.0\Advanced Tutorial.AssemblyInfoInputs.cache
+C:\Users\WalterKahn\Documents\F - Overig\C-sharp\Tutorial\Advanced Tutorial\obj\Debug\net8.0\Advanced Tutorial.AssemblyInfo.cs
+C:\Users\WalterKahn\Documents\F - Overig\C-sharp\Tutorial\Advanced Tutorial\obj\Debug\net8.0\Advanced Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\WalterKahn\Documents\F - Overig\C-sharp\Tutorial\Advanced Tutorial\obj\Debug\net8.0\Advanced Tutorial.sourcelink.json
+C:\Users\WalterKahn\Documents\F - Overig\C-sharp\Tutorial\Advanced Tutorial\obj\Debug\net8.0\Advanced Tutorial.dll
+C:\Users\WalterKahn\Documents\F - Overig\C-sharp\Tutorial\Advanced Tutorial\obj\Debug\net8.0\refint\Advanced Tutorial.dll
+C:\Users\WalterKahn\Documents\F - Overig\C-sharp\Tutorial\Advanced Tutorial\obj\Debug\net8.0\Advanced Tutorial.pdb
+C:\Users\WalterKahn\Documents\F - Overig\C-sharp\Tutorial\Advanced Tutorial\obj\Debug\net8.0\Advanced Tutorial.genruntimeconfig.cache
+C:\Users\WalterKahn\Documents\F - Overig\C-sharp\Tutorial\Advanced Tutorial\obj\Debug\net8.0\ref\Advanced Tutorial.dll

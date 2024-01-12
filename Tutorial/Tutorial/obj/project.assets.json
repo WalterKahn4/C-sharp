@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Walter\\.nuget\\packages\\": {}
+    "C:\\Users\\WalterKahn\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TU Delft\\3de jaar TUD\\B - Blok 2\\D - C#\\C#\\C-sharp\\Tutorial\\Tutorial\\Tutorial.csproj",
+      "projectUniqueName": "C:\\Users\\WalterKahn\\Documents\\F - Overig\\C-sharp\\Tutorial\\Tutorial\\Tutorial.csproj",
       "projectName": "Tutorial",
-      "projectPath": "D:\\TU Delft\\3de jaar TUD\\B - Blok 2\\D - C#\\C#\\C-sharp\\Tutorial\\Tutorial\\Tutorial.csproj",
-      "packagesPath": "C:\\Users\\Walter\\.nuget\\packages\\",
-      "outputPath": "D:\\TU Delft\\3de jaar TUD\\B - Blok 2\\D - C#\\C#\\C-sharp\\Tutorial\\Tutorial\\obj\\",
+      "projectPath": "C:\\Users\\WalterKahn\\Documents\\F - Overig\\C-sharp\\Tutorial\\Tutorial\\Tutorial.csproj",
+      "packagesPath": "C:\\Users\\WalterKahn\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\WalterKahn\\Documents\\F - Overig\\C-sharp\\Tutorial\\Tutorial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Walter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\WalterKahn\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://nuget.internal.geodelta.com/v3/index.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,5 +65,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.internal.geodelta.com/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }
